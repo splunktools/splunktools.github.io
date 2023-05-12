@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# **SEC1332C:** Level up your Response Actions: #
+# **SEC1332C:** Level up your Response Actions: 
 ## Hands-on Building Splunk SOAR Apps using the SOAR App Wizard ##
 
-# Introduction and Purpose #
+# Introduction and Purpose 
 
 *   Build custom SOAR app
 *   Ingest paginated data from an authenticated REST API source
 *   POST data to an authenticated REST API source
 *   Understand the basics of app development inside SOAR
 
-## Splunk SOAR Architecture ##
+## Splunk SOAR Architecture 
 
 **Playbooks** trigger **Actions** on the App
 
@@ -20,7 +20,7 @@ layout: default
 
 * * *
 
-# Build a development environment #
+# Build a development environment 
 
 It is best to develop using a development environment with an on-prem instance of Splunk SOAR.
 
@@ -33,7 +33,7 @@ See resources below on setting up a dev environment:
 
 * * *
 
-# Resources #
+# Resources 
 
 *   https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/Overview
 *   Github Repository
