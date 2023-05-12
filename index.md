@@ -3,8 +3,7 @@ layout: default
 ---
 
 # Level up your Response Actions: #
-## Hands-on Building Splunk SOAR Apps using the SOAR App Wizard ##
-## SEC1332C ##
+## **SEC1332C** Hands-on Building Splunk SOAR Apps using the SOAR App Wizard ##
 
 # Introduction and Purpose #
 
@@ -28,8 +27,9 @@ It is best to develop using a development environment with an on-prem instance o
 User can either download the Splunk SOAR OVA or download the tar.gz file and install on Red Hat Enterprise Linux 7.x or CentOS 7.x.
 
 See resources below on setting up a dev environment:
-[SOAR Installation](https://docs.splunk.com/Documentation/SOARonprem/latest/Install/Overview).
-[Dev Environment Setup Instructions](https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/SetUpADevEnvironment).
+
+*   [SOAR Installation](https://docs.splunk.com/Documentation/SOARonprem/latest/Install/Overview).
+*   [Dev Environment Setup Instructions](https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/SetUpADevEnvironment).
 
 * * *
 
