@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Level up your Response Actions: #
-## **SEC1332C** Hands-on Building Splunk SOAR Apps using the SOAR App Wizard ##
+# **SEC1332C:** Level up your Response Actions: #
+## Hands-on Building Splunk SOAR Apps using the SOAR App Wizard ##
 
 # Introduction and Purpose #
 
