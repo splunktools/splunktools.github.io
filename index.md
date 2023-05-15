@@ -53,7 +53,7 @@ Stop wasting months waiting for app updates to go live! Making changes to Splunk
 
 [SEC1104C Slides](https://conf.splunk.com/files/2022/slides/SEC1104C.pdf).
 
-**.conf21**
+**.conf22**
 
 * * *
 
