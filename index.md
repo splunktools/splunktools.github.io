@@ -36,8 +36,8 @@ See resources below on setting up a dev environment:
 * * *
 ## Important Notes
 
-* Some versions of Splunk SOAR (Phantom) use different versions of Python (2.7, 3.7, 3.9, etc) so please make sure that your dev environment matches your prod environment
-* In order to use dependencies such as pipy repo items, the servers you are developing on and installing on must have access to the repos.
+* Some versions of Splunk SOAR (Phantom) use different versions of Python (2.7, 3.7, 3.9, etc) so please make sure that your dev environment matches your prod environment. The latest on-prem version will match cloud.
+* In order to use dependencies such as pypi repo items, the servers you are developing on and installing on must have access to the repos.
 * If you wish to ingest data into SOAR (such as polling for new events), a manual edit of the JSON file must be done to enable on-poll as (of the writing of this document) the App Wizard does not support that action OOB.
 
 
@@ -50,6 +50,9 @@ See resources below on setting up a dev environment:
 *   [App Github Repository](https://github.com/splunktools/sample_soar_app)
 *   [FastAPI GitHub Repository](https://github.com/splunktools/fast_api_server)
 
+You can use this logo for your test app:
+
+![Logo](/assets/images/applogo.png)
 
 ## Related .Conf Talks
 
