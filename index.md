@@ -5,7 +5,9 @@ layout: default
 # **SEC1332C:** Level up your Response Actions: 
 ## Hands-on Building Splunk SOAR Apps using the SOAR App Wizard ##
 
-# Introduction and Purpose 
+**Session Abstract:**   Do you want to increase your capabilities in Splunk® SOAR? Get connections with more tools than ever before. Join us for an interactive workshop where we demonstrate how to build a custom app in Splunk SOAR using the SOAR App Wizard. We will demonstrate how to use the Splunk App Wizard to take care of authentication and write custom Python code for interacting with REST application programming interface (APIs).
+
+## Introduction and Purpose 
 
 *   Build custom SOAR app
 *   Ingest paginated data from an authenticated REST API source
@@ -20,7 +22,7 @@ layout: default
 
 * * *
 
-# Build a development environment 
+## Build a development environment 
 
 It is best to develop using a development environment with an on-prem instance of Splunk SOAR.
 
@@ -33,11 +35,11 @@ See resources below on setting up a dev environment:
 
 * * *
 
-# Resources 
+## Resources 
 
 *   https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/Overview
 *   Github Repository
-*   Other Splunk Conf Talks
+
 
 ## Related .Conf Talks
 
