@@ -28,8 +28,8 @@ User can either download the Splunk SOAR OVA or download the tar.gz file and ins
 
 See resources below on setting up a dev environment:
 
-*   [SOAR Installation](https://docs.splunk.com/Documentation/SOARonprem/latest/Install/Overview).
-*   [Dev Environment Setup Instructions](https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/SetUpADevEnvironment).
+*   [SOAR Installation](https://docs.splunk.com/Documentation/SOARonprem/latest/Install/Overview)
+*   [Dev Environment Setup Instructions](https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/SetUpADevEnvironment)
 
 * * *
 
@@ -49,9 +49,9 @@ Dan Nunes, VP, Technical Strategy & Program Management, DomainTools
 
 Stop wasting months waiting for app updates to go live! Making changes to Splunk® SOAR apps has never been faster for partners and our community. Join Splunk and DomainTools to find out how we shortened the app update cycle, put the power in the hands of partners, and are equipping users to make it easier than ever to integrate your security tools.
 
-[SEC1104C Video](https://conf.splunk.com/files/2022/recordings/SEC1104C_1080.mp4).
+[SEC1104C Video](https://conf.splunk.com/files/2022/recordings/SEC1104C_1080.mp4)
 
-[SEC1104C Slides](https://conf.splunk.com/files/2022/slides/SEC1104C.pdf).
+[SEC1104C Slides](https://conf.splunk.com/files/2022/slides/SEC1104C.pdf)
 
 **.conf22**
 
@@ -65,9 +65,9 @@ Daniel Federschmidt, Forward Deployed Software Engineer, Splunk
 
 You don't need a Super Mushroom to 1-up your automation and move to the next level! Powering your capabilities has never been so easy with ready-made Splunk® SOAR Utility Apps. Parse indicators of compromise. Accept HTTP data. Create requests to any API. Run playbooks on an interval. Let's explore apps that help you climb up walls and reach the bonus level. Are you ready? Join Splunk's forward-deployed software engineers on the quest to save the SOAR kingdom!
 
-[SEC1700C Video](https://conf.splunk.com/files/2022/recordings/SEC1700C_1080.mp4).
+[SEC1700C Video](https://conf.splunk.com/files/2022/recordings/SEC1700C_1080.mp4)
 
-[SEC1700C Slides](https://conf.splunk.com/files/2022/slides/SEC1700C.pdf).
+[SEC1700C Slides](https://conf.splunk.com/files/2022/slides/SEC1700C.pdf)
 
 **.conf22**
 
