@@ -53,6 +53,8 @@ Stop wasting months waiting for app updates to go live! Making changes to Splunk
 
 [SEC1104C Slides](https://conf.splunk.com/files/2022/slides/SEC1104C.pdf).
 
+**.conf21**
+
 * * *
 
 ### SEC1700C - Ready, Set, SOAR: How Utility Apps Can Up Level Your Playbooks!
@@ -66,5 +68,7 @@ You don't need a Super Mushroom to 1-up your automation and move to the next lev
 [SEC1700C Video](https://conf.splunk.com/files/2022/recordings/SEC1700C_1080.mp4).
 
 [SEC1700C Slides](https://conf.splunk.com/files/2022/slides/SEC1700C.pdf).
+
+**.conf22**
 
 * * *
