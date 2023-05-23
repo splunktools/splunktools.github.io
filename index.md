@@ -53,6 +53,7 @@ See resources below on setting up a dev environment:
 *   [Splunk SOAR Repositories](https://github.com/orgs/splunk-soar-connectors/repositories)
 *   [Splunk SOAR Contribution Guide](https://github.com/splunk-soar-connectors/.github/blob/main/.github/CONTRIBUTING.md)
 *   [Splunk Slack Usergroups](https://splk.it/slack)
+*   [Splunk SOAR VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Splunk.vscode-splunk-soar)
 
 You can use this logo for your test app:
 
