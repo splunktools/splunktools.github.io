@@ -50,6 +50,9 @@ See resources below on setting up a dev environment:
 *   [Ingest Actions](https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/Connector#Ingestion)
 *   [App Github Repository](https://github.com/splunktools/sample_soar_app)
 *   [FastAPI GitHub Repository](https://github.com/splunktools/fast_api_server)
+*   [Splunk SOAR Repositories](https://github.com/orgs/splunk-soar-connectors/repositories)
+*   [Splunk SOAR Contribution Guide](https://github.com/splunk-soar-connectors/.github/blob/main/.github/CONTRIBUTING.md)
+*   [Splunk Slack Usergroups](https://splk.it/slack)
 
 You can use this logo for your test app:
 
