@@ -6,3 +6,6 @@ plugins:
 
 title: Splunk Tools
 description: This page is to assist in building Splunk and Splunk SOAR apps related to the Splunk Conf talks.
+
+# Google Analytics
+google_analytics: G-V7NBSQFZ6G
