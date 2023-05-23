@@ -60,6 +60,20 @@ You can use this logo for your test app:
 
 ## Related .Conf Talks
 
+
+### SEC1592C - Tools of the Trade: Advancing App Development for Splunk® SOAR
+
+David Riddle, Sr. Security Eng. & Software Developer, University of Illinois at Urbana-Champaign
+
+Daniel Federschmidt, Senior Solution Engineer, Security, Splunk
+
+The app ecosystem surrounding the Splunk® SOAR platform is integral to its automation capabilities. Let’s peek behind the curtain and learn what old and new tools are available to build, extend and test apps for SOAR. Join us for the first showcase of the Visual Studio Code Extension for Splunk SOAR, designed to make app development a breeze. Beyond that, we’ll dive deeper and study University of Illinois’ approach to building, testing and deploying SOAR apps.
+
+**.conf23**
+
+
+* * *
+
 ### SEC1104C - Jump to Hyperspace - Publish Apps at Lightspeed with Open SOARce
 
 Matt Sayar, Senior Product Manager, Splunk
