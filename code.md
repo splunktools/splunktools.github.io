@@ -5,6 +5,8 @@ layout: default
 # **SEC1332C:** Level up your Response Actions: 
 ## Hands-on Building Splunk SOAR Apps using the SOAR App Wizard ##
 
+[_get_token](#_get_token-code) * [initialize](#initialize-code) * [_handle_test_connectivity](#_handle_test_connectivity-code) * [_handle_getusers](#_handle_getusers-code) * [_handle_getdevices](#_handle_getdevices-code) * [_handle_containdevice](#_handle_containdevice-code)
+
 ## _get_token code
 ```python
 def _get_token(self, action_result, from_action=False, **kwargs):
