@@ -40,6 +40,9 @@ See resources below on setting up a dev environment:
 * In order to use dependencies such as pypi repo items, the servers you are developing on and installing on must have access to the repos.
 * If you wish to ingest data into SOAR (such as polling for new events), a manual edit of the JSON file must be done to enable on-poll as (of the writing of this document) the App Wizard does not support that action OOB.
 * **Do not hard code credentials in apps, playbooks, or custom functions** -- even when just testing. Splunk SOAR uses a local git repo to store all changes so you may risk commiting sensitive data in your local repo.
+* Some functions are different in Phantom app builder then in custom functions -- for example while trying debug to the console otherwise you have to look at log files:
+  - phantom.debug("") -> self.save_progress("")   **don't leave this in your code once you are done**
+  - [List of App API functions](https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/AppDevAPIRef)
 
 
 * * *
