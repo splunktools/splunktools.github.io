@@ -18,7 +18,7 @@ The purpose of this site is to help Splunk users gain a better understanding of 
 This app is designed to assist SOC/CSIRT Analysts and Threat Hunting Analysts locate IOCs (Indicators of Compromise) throughout their Splunk infrastructure quickly and efficiently. The techniques used in this app can search multiple TB of data in seconds to know immediately if you have an indicator in your environment.
 
 ### Assets and Identity Helper
-<a href="https://splunkbase.splunk.com/app/6406" target="blank">Assets and Identity Helper</a>
+<span><img src="/assets/images/assets_icon.png" style="width:50px;"></span><span><a href="https://splunkbase.splunk.com/app/6406" target="blank">Assets and Identity Helper</a></span>
 
 Asset and Identity Helper
 
