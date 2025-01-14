@@ -14,7 +14,7 @@ The purpose of this site is to help Splunk users gain a better understanding of 
 ### IOC Search
 
 <div style="display: inline-block;vertical-align: middle;"><img src="/assets/images/thumbprint.png" style="width:50px;"></div>
-<div style="display: inline-block;vertical-align: middle;"><a href="https://splunkbase.splunk.com/app/7436" target="blank" style="padding:20px;>IOC Search</a></div>
+<div style="display: inline-block;vertical-align: middle;"><a href="https://splunkbase.splunk.com/app/7436" target="blank" style="padding:20px;">IOC Search</a></div>
 
 This app is designed to assist SOC/CSIRT Analysts and Threat Hunting Analysts locate IOCs (Indicators of Compromise) throughout their Splunk infrastructure quickly and efficiently. The techniques used in this app can search multiple TB of data in seconds to know immediately if you have an indicator in your environment.
 
